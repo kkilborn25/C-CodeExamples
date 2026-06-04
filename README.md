@@ -3,8 +3,10 @@ This repository contians C++ programs and excercises I have completed to help im
 ### Topics Covered
  - Classes and Objects
  - Inheritance
+ - Makefiles
 ### Skills Developed
  - Object-Oriented Programming
  - Debugging
 ### Example Programs
-- 
+- DynamicArray:
+- Project 1:
