@@ -9,4 +9,4 @@ This repository contians C++ programs and excercises I have completed to help im
  - Debugging
 ### Example Programs
 - DynamicArray:
-- Project 1:
+- Project 1: Demonstrates the use of functions and libraries to create an arithmetic tester
